@@ -1,0 +1,1 @@
+<?php $menu="<ul><li><a href='http://localhost/digifriends'>Home</a></li> <li><a href='http://localhost/digifriends/index.php?id=1'>Result</a></li> <li><a href='http://localhost/digifriends/index.php?cid=1'>check page</a></li></ul>";

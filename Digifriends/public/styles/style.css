@@ -1,0 +1,57 @@
+/* 
+    Document   : style
+    Created on : 1 Aug, 2016, 12:00:11 PM
+    Author     : karthik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body { 
+    color:#000305;
+    font-size:87.5%;
+    font-family:Arial, 'Lucida sans Unicode';
+    line-height: 1.5;
+    text-align: left;
+}
+
+a{
+    
+    text-decoration:none;
+}
+
+
+
+.wrapper{
+    
+    margin:0 auto;
+    width:70%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0584AC;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+h1{
+    color:green;
+    font-size:15px;
+}
